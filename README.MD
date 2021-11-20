@@ -24,5 +24,7 @@ Statistics indicate that the percentage of Egyptian software developers who work
 
 In addition, comparing employment styles in Egypt with global statistics may indicate that Egyptian software developers have a lower job stability than global average. In 2021, for example, there is a relatively larger decrease in the ratio of full-time employees, which was already lower than global records. On the other hand, Egypt may also have a higher-than-average ratio of freelancers and independent contractors.
 
+Analysis detailes for non-technical audience can be found [here](https://abdelrahman-hefny.medium.com/are-we-home-yet-analyzing-how-egyptian-software-developers-work-f07d208bd17)
+
 ## Acknowledgement
 This project uses data obtained from StackOverflow surveys in the years 2019, 2020, and 2021. The original dataset archives can be found [here](https://insights.stackoverflow.com/survey).
